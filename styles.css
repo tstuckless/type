@@ -1,0 +1,21 @@
+/* Type */
+
+body {
+	background-color: white;
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1;
+    font-size: 2em;
+    transform: skewY(10deg);
+    top: 150px;
+    position: absolute;
+    text-shadow: 2px 2px green;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+}
+.new-color {
+	color: blue;
+}
+.other-font {
+	font-family: serif;
+}
